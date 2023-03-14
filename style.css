@@ -1,0 +1,48 @@
+#container{
+    width: 50vw;
+    margin: 20px auto;
+    border: 1px solid red;
+    background-color: aquamarine;
+    box-shadow: 2px 3px 4px 3px rgb(190, 190, 241) ;
+
+}
+#passwordPara{
+    width: 48vw;
+    height: 3rem;
+    margin: 2px auto;
+    padding: 10px;
+    color: rgb(6, 22, 124);
+    border: 1px solid black;
+    background-color: rgb(212, 228, 243);
+ box-shadow: 2px 1px 4px 3px ;
+}
+li{
+     margin-left: -35px;
+     margin-bottom: 15px; 
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    list-style: none;
+    padding: 10px 0px ;
+    box-shadow: 2px 1px 4px 3px rgb(190, 190, 241) ;
+  color: rgb(42, 105, 105);
+font-weight: bold;
+}
+#input1{
+    width: 50px;
+}
+button{
+    width: 50vw;
+    margin-left: -40px;
+    height: 40px;
+    background-color: rgb(248, 223, 223);
+    font-size: 20px;
+    padding: 5px;
+    font-weight: bold;
+ }
+ button:active{
+    background-color: rgb(52, 52, 134);
+    color: rgb(244, 227, 227);
+    box-shadow: 2px 2px 4px 3px rgb(7, 7, 45) ;
+ 
+}
